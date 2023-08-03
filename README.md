@@ -19,7 +19,7 @@ https://github.com/stupidloud/nanopi-openwrt/tags
 
 ### 终端内在线升级方法：
 ```bash
-wget -qO- https://github.com/stupidloud/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
+wget -qO- https://github.com/yidit/nanopi-openwrt/raw/master/scripts/autoupdate-bash.sh | bash
 ```
 slim版
 ```bash
